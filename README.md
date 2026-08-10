@@ -94,6 +94,6 @@ A management application for handling hotel-related operations.
 ### 📫 Connect With Me
 
 - GitHub: https://github.com/OfficialShashi
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your professional email
+- LinkedIn: https://www.linkedin.com/in/shashikant-kumar-5b17401a6/
+- Email: shashiraaz9216@gmail.com
 - Contact Number : 8677097146 / 6203462639
