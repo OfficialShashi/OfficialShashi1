@@ -63,13 +63,6 @@ A Java application for managing farmer registration, crops, financial informatio
 
 **Technologies:** Java, OOP
 
-### 🏨 Hotel Management System
-A management application for handling hotel-related operations.
-
-**Technologies:** Python, Tkinter
-
----
-
 ## 📚 Currently Practicing
 
 - Java
